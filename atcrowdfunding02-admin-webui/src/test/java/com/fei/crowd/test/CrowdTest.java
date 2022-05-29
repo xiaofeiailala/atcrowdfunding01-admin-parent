@@ -38,9 +38,9 @@ public class CrowdTest {
 
     @Test
     public void adminMapperTest(){
-        Admin admin = new Admin(null, "tom", "123123", "二宁", "123123@qq.com", null);
-        int insert = adminMapper.insert(admin);
-        System.out.println(insert);
+//         Admin admin = new Admin(null, "tom", "123123", "二宁", "123123@qq.com", null);
+//         int insert = adminMapper.insert(admin);
+//         System.out.println(insert);
 
     }
 
